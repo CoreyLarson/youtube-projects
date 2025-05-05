@@ -38,6 +38,7 @@ while count < 21:
 ###
 ####
 #####
+
 height = input("How tall would you like your triangle ")
 for i in range((int)(height)):
     print("#" * (i + 1))
